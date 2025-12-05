@@ -8,5 +8,5 @@
 3. source venv/bin/activate
 4. pip install --upgrade pip
 5. pip install -r requirements.txt
-6. python3 main.py
+6. python3 prN.py (доступны pr1.py, pr2.py)
 7. deactivate
