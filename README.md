@@ -37,7 +37,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 # 6. Запуск нужной практической работы
-python3 prN.py   # доступны pr1.py, pr2.py и др.
+python3 prN.py   # доступны pr1.py, pr2.py и pr3.py
 
 # 7. Деактивация окружения
 deactivate
